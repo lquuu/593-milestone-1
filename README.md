@@ -17,8 +17,8 @@ Our analysis addressed:
 ---
 
 ## 📂 Repository Structure
-- `notebooks/` – Jupyter notebooks from Deepnote covering cleaning, visualization, and regression.
-- `data/` – (optional) public sample data for demonstration.  
+- `notebooks/` – Jupyter notebooks from Deepnote covering cleaning, visualization, & regression
+- `data/` – Data Files  
 - `requirements.txt` – Python dependencies 
 - `README.md` – Project Summary
 
